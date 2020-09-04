@@ -71,7 +71,7 @@ This section outlines what stages a proposal may go through. The stage is identi
    author for review (label: `Needs revision <https://github.com/haskell-core/core-libraries-proposals/pulls?q=label%3A%22Needs+revision%22>`_), or accepts it (label: `Accepted <https://github.com/haskell-core/core-libraries-proposals/pulls?q=label%3A%22Accepted%22>`_).
 
    Acceptance of the proposal implies that the implementation will be accepted
-   into GHC provided it is well-engineered, well-documented, and does not
+   into the library, provided it is well-engineered, well-documented, and does not
    complicate the code-base too much.
 
    `≡ List of accepted proposals <https://github.com/haskell-core/core-libraries-proposals/tree/master/proposals>`_ •
@@ -227,14 +227,14 @@ The current members, including their GitHub handle, when they joined and their r
 
 ======================  ====================================================  =======  ================
 chessai                 `@chessai <https://github.com/chessai>`_              2020/09  chair, secretary
-Cale Gibbard            `@cgibbard` <https://github.com/cgibbard>`_           2020/09
-Edward Kmett            `@ekmett` <https://github.com/ekmett>`_               2020/09
-Andrew Thaddeus Martin  `@andrewthad` <https://github.com/andrewthad>`_       2020/09
-Eric Mertens            `@glguy` <https://github.com/glguy>`_                 2020/09
-Neil Mitchell           `@ndmitchell` <https://github.com/ndmitchell>`_       2020/09
-Emily Pillmore          `@emilypi` <https://github.com/emilypi>`_             2020/09
-Herbert Valerio Riedel  `@hvr` <https://github.com/hvr>`_                     2020/09
-George Wilson           `@gwils` <https://github.com/gwils>`_                 2020/09
+Cale Gibbard            `@cgibbard <https://github.com/cgibbard>`_            2020/09
+Edward Kmett            `@ekmett <https://github.com/ekmett>`_                2020/09
+Andrew Thaddeus Martin  `@andrewthad <https://github.com/andrewthad>`_        2020/09
+Eric Mertens            `@glguy <https://github.com/glguy>`_                  2020/09
+Neil Mitchell           `@ndmitchell <https://github.com/ndmitchell>`_        2020/09
+Emily Pillmore          `@emilypi <https://github.com/emilypi>`_              2020/09
+Herbert Valerio Riedel  `@hvr <https://github.com/hvr>`_                      2020/09
+George Wilson           `@gwils <https://github.com/gwils>`_                  2020/09
 ======================  ====================================================  =======  ================
 
 Committee process
