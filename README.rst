@@ -226,15 +226,15 @@ You can reach the committee by email at core-libraries-committee@haskell.org.
 The current members, including their GitHub handle, when they joined and their role, are listed at:
 
 ======================  ====================================================  =======  ================
-chessai                 @chessai <https://github.com/chessai>                 2020/09  chair, secretary
-Cale Gibbard            @cgibbard <https://github.com/cgibbard>               2020/09
-Edward Kmett            @ekmett <https://github.com/ekmett>                   2020/09
-Andrew Thaddeus Martin  @andrewthad <https://github.com/andrewthad>           2020/09
-Eric Mertens            @glguy <https://github.com/glguy>                     2020/09
-Neil Mitchell           @ndmitchell <https://github.com/ndmitchell>           2020/09
-Emily Pillmore          @emilypi <https://github.com/emilypi>                 2020/09
-Herbert Valerio Riedel  @hvr <https://github.com/hvr>                         2020/09
-George Wilson           @gwils <https://github.com/gwils>                     2020/09
+chessai                 `@chessai <https://github.com/chessai>`_              2020/09  chair, secretary
+Cale Gibbard            `@cgibbard <https://github.com/cgibbard>`_            2020/09
+Edward Kmett            `@ekmett <https://github.com/ekmett>`_                2020/09
+Andrew Thaddeus Martin  `@andrewthad <https://github.com/andrewthad>`_        2020/09
+Eric Mertens            `@glguy <https://github.com/glguy>`_                  2020/09
+Neil Mitchell           `@ndmitchell <https://github.com/ndmitchell>`_        2020/09
+Emily Pillmore          `@emilypi <https://github.com/emilypi>`_              2020/09
+Herbert Valerio Riedel  `@hvr <https://github.com/hvr>`_                      2020/09
+George Wilson           `@gwils <https://github.com/gwils>`_                  2020/09
 ======================  ====================================================  =======  ================
 
 Committee process
