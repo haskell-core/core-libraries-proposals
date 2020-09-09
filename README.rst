@@ -48,7 +48,7 @@ This section outlines what stages a proposal may go through. The stage is identi
 
    `How to submit a proposal <#how-to-start-a-new-proposal>`_
 
-3. (No label.)  The wider community discusses the proposal in the commit section of the pull
+3. (No label.)  The wider community discusses the proposal in the comment section of the pull
    request, while the author refines the proposal. This phase lasts as long as necessary.
 
    `Discussion goals <#discussion-goals>`_ •
@@ -127,21 +127,21 @@ in your branch. For instance,
 
 .. code-block:: md
 
-    This is a proposal aiming to unify `Nat` and `Natural.
+    This is a proposal aiming to unify `Nat` and `Natural`.
 
     [Rendered](https://github.com/chessai/core-libraries-proposals/blob/typeable/proposals/0000-type-indexed-typeable.rst)
 
 How to amend an accepted proposal
 ---------------------------------
 
-Some proposals amend an existing proposal. Such an amendment :
+Some proposals amend an existing proposal. Such an amendment:
 
-* Makes a significant (i.e. not just editorial or typographical) change, and hence warrants approval by the commitee
+* Makes a significant (i.e. not just editorial or typographical) change, and hence warrants approval by the committee
 * Is too small, or too closely tied to the existing proposal, to make sense as a new standalone proposal.
 
 Often, this happens
 after a proposal is accepted, but before or while it is implemented.
-In these cases, a PR that _changes_ the accepted proposal can be opened. It goes through
+In these cases, a PR that *changes* the accepted proposal can be opened. It goes through
 the same process as an original proposal.
 
 Discussion goals
@@ -247,7 +247,7 @@ The steps below have timescales attached, so that everyone shares
 the same expectations.  But they are only reasonable expectations.
 The committee consists of volunteers with day jobs, who are reviewing
 proposals in their spare time.  If they do not meet the timescales
-indicated below (e.g they might be on holiday), a reasonable response
+indicated below (e.g., they might be on holiday), a reasonable response
 is a polite ping/enquiry.
 
 -  The secretary nominates a member of the committee, the *shepherd*, to oversee
@@ -302,7 +302,7 @@ is a polite ping/enquiry.
 
 -  For acceptance, a proposal must have at least *some* enthusiastic support
    from member(s) of the committee. The committee, fallible though its members may be,
-   is the guardian of the core libraries. If all of them are luke-warm about a change,
+   is the guardian of the core libraries. If all of them are lukewarm about a change,
    there is a presumption that it should be rejected, or at least "parked".
    (See "evidence of utility" above, under "What a proposal should look like".)
 
@@ -319,7 +319,7 @@ is a polite ping/enquiry.
    to be clear on these points".
 
    In fact, this should happen if *any* substantive technical debate
-   takes place.  The goal of the commitee review is to say yes/no to a
+   takes place.  The goal of the committee review is to say yes/no to a
    proposal *as it stands*.  If new issues come up, they should be
    resolved, incorporated in the proposal, and the revised proposal
    should then be re-submitted for timely yes/no decision.  In this way,
